@@ -26,6 +26,5 @@ Code structure is always the same:
 
 1. Imports
 2. Timer start
-3. Solution code
-    a. This can have multiple solutions commented, leaving out only the best one (time and memory wise)
+3. Solution code (This can have multiple solutions commented, leaving out only the best one (time and memory wise))
 4. Timer finish
