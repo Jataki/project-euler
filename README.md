@@ -1,6 +1,6 @@
 # Project Euler
 
-This repository contains all personal solutions regarding Project Euler problems.
+This repository contains all personal solutions regarding Project Euler problems. All of these are written in Python3.
 
 ## What is Project Euler?
 
@@ -27,5 +27,5 @@ Code structure is always the same:
 1. Imports
 2. Timer start
 3. Solution code
-  a. This can have multiple solutions commented, leaving out only the best one (time and memory wise)
+    a. This can have multiple solutions commented, leaving out only the best one (time and memory wise)
 4. Timer finish
